@@ -20,3 +20,9 @@
 - file-icons
 - docblockr
 - busy-signal
+
+
+# HTML
+
+- open-in-browser 快速打开默认浏览器查看html
+- atom-html-preview 实时预览html
